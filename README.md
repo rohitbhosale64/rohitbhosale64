@@ -5,12 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...web devlopment
+- 🔭 I’m currently working on web devlopment
 - 🌱 I’m currently learning full stack web devlopment.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 know about me on linkedin: https://www.linkedin.com/in/rohitbhosale64
 - 📫 How to reach me: vitigo64@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
