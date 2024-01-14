@@ -1,4 +1,4 @@
-HI THERE,
+Hi There,I'm Rohit Bhosale.
 - 🔭 I’m currently working on web devlopment
 - 🌱 I’m currently learning full stack web devlopment.
 - 💬 know about me on linkedin: https://www.linkedin.com/in/rohitbhosale64
